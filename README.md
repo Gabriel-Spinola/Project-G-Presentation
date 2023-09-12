@@ -4,7 +4,7 @@ This repository contains the code and assets for an animation video presentating
 
 ## Overview
 
-This animation video presentation was developed to engage the audience during the SenaiMG Ctti presentation. It combines the power of Motion Canvas, a versatile animation library, with the speed of Vite for a smooth development experience. TypeScript ensures type safety and code maintainability throughout the project. Additionally, this project briefly demonstrates a user authentication process through a RESTful API and database population.
+This animation video presentation was developed to engage the audience during the SenaiMG CTTI presentation. It combines the power of Motion Canvas, a versatile animation library, with the speed of Vite for a smooth development experience. TypeScript ensures type safety and code maintainability throughout the project. Additionally, this project briefly demonstrates a user authentication process through a RESTful API and database population.
 
 ## Features
 
