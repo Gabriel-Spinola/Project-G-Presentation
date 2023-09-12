@@ -1,0 +1,70 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "relate-1",
+      "targetTime": 3.0666666666666664
+    },
+    {
+      "name": "select",
+      "targetTime": 5.4959254284429715
+    },
+    {
+      "name": "move_x",
+      "targetTime": 5.795925428442971
+    },
+    {
+      "name": "move_y",
+      "targetTime": 6.795925428442971
+    },
+    {
+      "name": "rotate",
+      "targetTime": 7.795925428442971
+    },
+    {
+      "name": "morph",
+      "targetTime": 11.095925428442971
+    },
+    {
+      "name": "layout_prop",
+      "targetTime": 12.195925428442973
+    },
+    {
+      "name": "css",
+      "targetTime": 12.495925428442973
+    },
+    {
+      "name": "however",
+      "targetTime": 13.095925428442973
+    },
+    {
+      "name": "box",
+      "targetTime": 13.415925428442973
+    },
+    {
+      "name": "animate",
+      "targetTime": 14.415925428442973
+    },
+    {
+      "name": "50%",
+      "targetTime": 15.415925428442973
+    },
+    {
+      "name": "height",
+      "targetTime": 15.715925428442974
+    },
+    {
+      "name": "second",
+      "targetTime": 17.015925428442973
+    },
+    {
+      "name": "translation",
+      "targetTime": 18.315925428442974
+    },
+    {
+      "name": "next",
+      "targetTime": 18.315925428442974
+    }
+  ],
+  "seed": 669504800
+}
