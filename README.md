@@ -36,7 +36,6 @@ cd projectg-db-presentation
 Install the project dependencies using your preferred package manager (e.g., npm or yarn).
 
 ```bash
-Copy code
 npm install
 ```
 
