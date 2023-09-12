@@ -30,7 +30,7 @@ git clone https://github.com/Gabriel-Spinola/Project-G-Presentation.git
 Navigate to the project directory.
 
 ```bash
-cd senai-mg-ctti-presentation
+cd projectg-db-presentation
 ```
 
 Install the project dependencies using your preferred package manager (e.g., npm or yarn).
@@ -40,21 +40,10 @@ Copy code
 npm install
 ```
 
-#### or
-
-```
-yarn
-```
-
 Start the development server.
 
 ```bash
-npm run dev
-```
-
-#### or
-```
-yarn dev
+npm run serve
 ```
 
 Open your browser and visit http://localhost:9000 to view the animation video presentation with user authentication.
@@ -64,7 +53,6 @@ Feel free to customize this animation for your own presentations:
 
 Modify the animation scripts in the src directory.
 Update content and assets as needed.
-
 
 ## License
 This animation video presentation is open-source and available under the MIT License.
