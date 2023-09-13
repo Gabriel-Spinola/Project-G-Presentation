@@ -1,6 +1,7 @@
 # SenaiMG CTTI Presentation Animation with User Authentication
 
 This repository contains the code and assets for an animation video presentating a user authentication process with RESTful API and database population. created for SenaiMG's CTTI using Motion Canvas, Vite, TypeScript.
+https://projectg2.vercel.app/
 
 ## Overview
 
